@@ -14,3 +14,7 @@ index = -2;
 console.log(`Using an index of ${index} item returned is ${array1.at(index)}`);
 // expected output: "Using an index of -2 item returned is 130"
 '''
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
